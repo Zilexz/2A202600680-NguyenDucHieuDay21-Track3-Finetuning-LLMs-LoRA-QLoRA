@@ -2,7 +2,7 @@
 
 **Học viên**: Nguyễn Đức Hiếu — 2A202600680  
 **Ngày nộp**: 2026-06-25  
-**Submission option**: A (lightweight ZIP)
+**Submission option**: B (GitHub + HuggingFace Hub)
 
 ---
 
@@ -14,6 +14,7 @@
 - **GPU**: Tesla T4, 14.56 GB VRAM (Google Colab Free)
 - **Tổng training time**: ~12.2 phút (3 ranks × ~4 phút/rank)
 - **Estimated cost**: $0.07 (@ $0.35/hr T4 rate)
+- **HF Hub link**: https://huggingface.co/Zilexz/lab21-qwen2.5-3b-vi-r16
 
 ---
 
